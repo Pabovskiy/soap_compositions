@@ -188,6 +188,12 @@ h2{
 	align-items: center;
 	justify-content: center;
 }
+.price{
+	font-size:50px;
+	font-family:"dyns";
+	text-decoration: none;	
+}
+
 @font-face{
 	font-family:"fontss";
 	src: url("fonts/roboto-black.ttf") format("truetype");
