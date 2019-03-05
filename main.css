@@ -193,6 +193,9 @@ h2{
 	font-family:"dyns";
 	text-decoration: none;	
 }
+.main-tab img{
+	margin:auto;
+}
 
 @font-face{
 	font-family:"fontss";
